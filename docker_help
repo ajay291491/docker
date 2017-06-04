@@ -45,4 +45,4 @@ $ docker attach <container_name>
 
 Note : This is almost like a console and you will be able to see output on tty if it started via "-t" option and to detech you need to use "ctrl - c" or "ctrl -p " or "ctrl -q"
 
-TEST : Anu 04-June-2017 12:47 PM
+TEST : Removing .... Anu 04-June-2017 12:47 PM
